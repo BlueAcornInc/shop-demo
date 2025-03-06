@@ -5,8 +5,10 @@ This project boilerplate is for Edge Delivery Services projects that integrate w
 https://experienceleague.adobe.com/developer/commerce/storefront/
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Customize your code: https://github.com/blueacorninc/shop-demo
+- Edit your content: https://da.live/#/blueacorninc/shop-demo
+- Manage your config: https://da.live/sheet#/blueacorninc/shop-demo/configs-stage
+- Preview your storefront: https://main--shop-demo--blueacorninc.aem.page/
 
 ## Pre-requisites
 
